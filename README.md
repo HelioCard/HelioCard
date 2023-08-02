@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HelioCard
-- 👀 I’m interested in Python, Rust, SQL, Pyside, Flet
-- 🌱 I’m currently learning Python, Rust...
-- 📫 How to reach me: helio.caard@gmail.com
+- 👋 Hi, I’m Helio Cardoso
+- 👀 I’m interested in Python, SQL, Flet, Django, HMTL, CSS, JavaScript
+- 🌱 I’m currently learning JavaScript, HTML, CSS and Django...
+- 📫 How to reach me: helio.card@yahoo.com.br
 
 <!---
 HelioCard/HelioCard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
