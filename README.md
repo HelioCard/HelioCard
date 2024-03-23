@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Helio Cardoso
-- 👀 I’m interested in Python, SQL, Flet, Django, HMTL, CSS, JavaScript
-- 🌱 I’m currently learning JavaScript, HTML, CSS and Django...
+- 👀 I’m interested in Python, SQL, Flet, Django, HMTL, CSS, JavaScript ... and now in Kotlin
+- 🌱 I’m currently learning mobile development - Kotlin and Jetpack Compose
 - 📫 How to reach me: helio.card@yahoo.com.br
 
 <!---
